@@ -8,7 +8,7 @@ int main()
 	double a = 23.5; // a represent the mile per gallon when driven in town
 	double b = 28.9; // b represents the mile per gallon when driven on the highwya
 	double Milestraveledintown = a * 20; // this line calculates the distance the car can travel on one tank of gas in town
-	double Milestraveledonthehighway = b * 20; // this line calculates the distance the car can travel on one tank of gas on the highwya
+	double Milestraveledonthehighway = b * 20; // this line calculates the distance the car can travel on one tank of gas on the highway
 
 	// this line prints the results to the console
 
