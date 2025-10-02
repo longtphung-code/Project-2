@@ -12,9 +12,8 @@ int main()
 
 	// this line prints the results to the console
 
-	std::cout << "A car has a gas tank size of 20 Gallons." << std::endl;
-	std::cout << "A car has a gas mileage of " << a << " miles per gallon in town." << std::endl;
-	std::cout << "A car has a gas mileage of " << b << " miles per gallon on the highway." << std::endl;
+	std::cout << "A car has a gas tank size of 20 Gallons. " << std::endl;
+	std::cout << "This car has a gas mileage of " << a << " miles per gallon in town" " and gas mileage of " << b << "on the highway " << std::endl;
 	std::cout << "When driven in town the car can travel " << Milestraveledintown << " miles on one tank." << std::endl;
 	std::cout << "When driven on the highway the car can travel " << Milestraveledonthehighway << " miles on one tank." << std::endl;
 
