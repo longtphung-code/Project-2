@@ -15,10 +15,10 @@ int main()
 
   
 	// this line prints the results to the console
-	std::cout << a << " Is the number of people surveyed by a soft drink company" << std::endl;
+	std::cout << a << " Is the number of people surveyed by a soft drink company." << std::endl;
 	std::cout << "Of this number only 15% purchase one or more energy drinks per week. " << std::endl;
-	std::cout << "The number of people who purchase one or more energy drinks per week is " << c << std::endl;
-	std::cout << "of the 2475 people only 58% of them prefer citrus-flavoured energy drinks" << std::endl;
-	std::cout << "The number of people who prefer citrus-flavoured energy drinks is " << e << std::endl;
+	std::cout << "The number of people who purchase one or more energy drinks per week is " << c << "." << std::endl;
+	std::cout << "Of the 2475 people only 58% of them prefer citrus-flavoured energy drinks." << std::endl;
+	std::cout << "Within the 58% of people only " << e << " preferred citrus-flavoured energy drinks." << std::endl;
 	return 0;
 }
